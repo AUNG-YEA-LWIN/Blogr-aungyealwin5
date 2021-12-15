@@ -1349,7 +1349,7 @@ ol li a i.fas.fa-sort-up{
 
 	.container-four{
 
-		height: 120vh;
+		height: 1000px;
 		background-image: none;
 	}
 
@@ -1393,7 +1393,7 @@ ol li a i.fas.fa-sort-up{
 
 		display: block;
 		height: 120vh;
-		background-color: lightblue;
+/* 		background-color: lightblue; */
 	}
 
 	.b5-h1-one{
